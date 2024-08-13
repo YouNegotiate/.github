@@ -43,14 +43,14 @@ Happy negotiating!
 
 <p align="center">
     <a
-        href="https://creditor.younegotiate.com"
+        href="younegotiate.com"
         target="_blank"
     >
         <picture>
             <img
                 width="320px"
                 alt="YouNegotiate logo"
-                src="./public/images/logo.svg"
+                src="https://creditor.younegotiate.com/images/logo.svg"
             >
         </picture>
     </a>
