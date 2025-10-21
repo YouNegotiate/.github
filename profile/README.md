@@ -6,6 +6,7 @@
         <picture>
             <img
                 width="320px"
+                height="80px"
                 alt="YouNegotiate logo"
                 src="https://creditor.younegotiate.com/images/logo.svg"
             >
@@ -49,6 +50,7 @@ Happy negotiating!
         <picture>
             <img
                 width="320px"
+                height="80px"
                 alt="YouNegotiate logo"
                 src="https://creditor.younegotiate.com/images/logo.svg"
             >
